@@ -1,6 +1,8 @@
 Response Child Theme
 ====================
 
+More info: http://groupbuyingsite.com/marketplace/responsive-daily-deal-theme/
+
 This is a blank child theme so you can begin customizing the Response Theme. It will be identical to the Response Theme until you add modifications.  See the following post for more information:
 http://groupbuyingsite.com/forum/showthread.php?3203-Setting-Up-and-Using-a-Child-Themes
 
