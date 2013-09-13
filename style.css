@@ -1,5 +1,5 @@
 /*
-Theme Name: Blank Child Theme
+Theme Name: Response Child Theme
 Theme URI: http://groupbuyingsite.com
 Description: This theme will be identical to the Response Theme until you add modifications.
 Author: Group Buying Site
@@ -12,3 +12,6 @@ template: response-theme
 Add your custom styles below:
 */
 
+#gb_checkout_payment table, #gb_checkout_review table {
+	width: 100%;
+}
